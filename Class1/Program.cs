@@ -1,0 +1,13 @@
+﻿using System;
+Console.WriteLine(" Тип данных Bool: Максимальное значение {0}, Минимальное значение {1}", bool.TrueString, bool.FalseString);
+Console.WriteLine("Тип данных int: Максимальное значение {0}, Минимальное значение {1}", int.MaxValue, int.MinValue);
+Console.WriteLine("Тип данных uint: Максимальное значение {0}, Минимальное значение {1}", uint.MaxValue, uint.MinValue);
+Console.WriteLine("Тип данных double: Максимальное значение {0}, Минимальное значение {1}", double.MaxValue,double.MinValue);
+Console.WriteLine("Тип данных float: Максимальное значение {0}, Минимальное значение {1}", float.MaxValue, float.MinValue);
+Console.WriteLine("Тип данных long: Максимальное значение {0}, Минимальное значение {1}", long.MaxValue, long.MinValue);
+Console.WriteLine("Тип данных ulong: Максимальное значение {0}, Минимальное значение {1}", ulong.MaxValue, ulong.MinValue);
+Console.WriteLine("Тип данных byte: Максимальное значение {0}, Минимальное значение {1}", byte.MaxValue, byte.MinValue);
+Console.WriteLine("Тип данных sbyte: Максимальное значение {0}, Минимальное значение {1}", sbyte.MaxValue, sbyte.MinValue);
+Console.WriteLine("Тип данных short: Максимальное значение {0}, Минимальное значение {1}", short.MaxValue, short.MinValue);
+Console.WriteLine("Тип данных ushort: Максимальное значение {0}, Минимальное значение {1}", ushort.MaxValue, ushort.MinValue);
+Console.WriteLine("Тип данных decimal: Максимальное значение {0}, Минимальное значение {1}", decimal.MaxValue, decimal.MinValue);
